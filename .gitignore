@@ -13,3 +13,11 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+<<<<<<< HEAD
+=======
+
+# System/IDE specific
+.DS_Store
+.idea/
+.vscode/
+>>>>>>> d765844 (Initial commit: Basic project structure)
