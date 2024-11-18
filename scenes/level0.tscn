@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://byc27j2cvbtad"]
 
-[ext_resource type="Script" path="res://scenes/level_0.gd" id="1_1e8rw"]
+[ext_resource type="Script" path="res://scripts/level_0.gd" id="1_1e8rw"]
 [ext_resource type="Texture2D" uid="uid://dts1fq7d13gsy" path="res://resources/chara5_7/pose1.png" id="1_r4v2k"]
 [ext_resource type="Texture2D" uid="uid://cv6qgunmusbxg" path="res://resources/chara5_7/pose2.png" id="2_mqm32"]
 [ext_resource type="Texture2D" uid="uid://dyr3qdya6hhon" path="res://resources/chara5_7/pose3.png" id="3_7won0"]
@@ -38,7 +38,7 @@ process_mode = 1
 position = Vector2(1, -3)
 scale = Vector2(2, 1.75926)
 sprite_frames = SubResource("SpriteFrames_l0d1b")
-frame_progress = 0.324202
+frame_progress = 0.0548783
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
 position = Vector2(-2, -2)
